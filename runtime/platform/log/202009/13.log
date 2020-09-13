@@ -1,0 +1,30 @@
+[2020-09-13T13:35:57+08:00][error] [1045]SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES)[F:\gitProject\wallet\vendor\topthink\think-orm\src\db\PDOConnection.php:568]
+[2020-09-13T13:45:03+08:00][error] [1045]SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES)[F:\gitProject\wallet\vendor\topthink\think-orm\src\db\PDOConnection.php:568]
+[2020-09-13T13:50:51+08:00][error] [1045]SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES)[F:\gitProject\wallet\vendor\topthink\think-orm\src\db\PDOConnection.php:568]
+[2020-09-13T13:50:52+08:00][error] [1045]SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES)[F:\gitProject\wallet\vendor\topthink\think-orm\src\db\PDOConnection.php:568]
+[2020-09-13T13:50:53+08:00][error] [1045]SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES)[F:\gitProject\wallet\vendor\topthink\think-orm\src\db\PDOConnection.php:568]
+[2020-09-13T13:50:53+08:00][error] [1045]SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES)[F:\gitProject\wallet\vendor\topthink\think-orm\src\db\PDOConnection.php:568]
+[2020-09-13T13:50:53+08:00][error] [1045]SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES)[F:\gitProject\wallet\vendor\topthink\think-orm\src\db\PDOConnection.php:568]
+[2020-09-13T13:50:53+08:00][error] [1045]SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES)[F:\gitProject\wallet\vendor\topthink\think-orm\src\db\PDOConnection.php:568]
+[2020-09-13T13:50:54+08:00][error] [1045]SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES)[F:\gitProject\wallet\vendor\topthink\think-orm\src\db\PDOConnection.php:568]
+[2020-09-13T13:50:54+08:00][error] [1045]SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES)[F:\gitProject\wallet\vendor\topthink\think-orm\src\db\PDOConnection.php:568]
+[2020-09-13T13:50:54+08:00][error] [1045]SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES)[F:\gitProject\wallet\vendor\topthink\think-orm\src\db\PDOConnection.php:568]
+[2020-09-13T13:50:54+08:00][error] [1045]SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES)[F:\gitProject\wallet\vendor\topthink\think-orm\src\db\PDOConnection.php:568]
+[2020-09-13T13:50:54+08:00][error] [1045]SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES)[F:\gitProject\wallet\vendor\topthink\think-orm\src\db\PDOConnection.php:568]
+[2020-09-13T13:54:17+08:00][error] [1045]SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES)[F:\gitProject\wallet\vendor\topthink\think-orm\src\db\PDOConnection.php:568]
+[2020-09-13T15:06:15+08:00][error] [0]bccomp() expects parameter 1 to be string, int given[F:\gitProject\wallet\app\platform\controller\Test.php:26]
+[2020-09-13T15:07:13+08:00][error] [0]variable type error： boolean[F:\gitProject\wallet\vendor\topthink\framework\src\think\Response.php:392]
+[2020-09-13T15:10:44+08:00][error] [0]number_format() expects parameter 1 to be float, string given[F:\gitProject\wallet\app\platform\controller\Test.php:27]
+[2020-09-13T15:51:35+08:00][error] 修改数据异常：Call to a member function data() on null - 77
+[2020-09-13T17:32:18+08:00][error] 添加数据异常：Undefined index: price - 37
+[2020-09-13T17:49:03+08:00][error] 添加数据异常：Undefined index: price - 37
+[2020-09-13T17:55:32+08:00][error] 数据删除异常：Call to a member function delete() on null
+[2020-09-13T19:12:43+08:00][error] 数据删除异常：Call to a member function delete() on null
+[2020-09-13T19:20:46+08:00][error] 数据删除异常：Undefined index: id
+[2020-09-13T19:20:48+08:00][error] 数据删除异常：Undefined index: id
+[2020-09-13T19:36:01+08:00][error] 修改数据异常：Undefined index: edition - 103
+[2020-09-13T19:38:11+08:00][error] 修改数据异常：Undefined index: edition - 103
+[2020-09-13T19:38:16+08:00][error] 修改数据异常：Undefined index: edition - 103
+[2020-09-13T19:38:17+08:00][error] 修改数据异常：Undefined index: edition - 103
+[2020-09-13T19:46:03+08:00][error] 修改数据异常：SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '4' for key 'level' - 771
+[2020-09-13T19:47:25+08:00][error] 修改数据异常：SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '3' for key 'level' - 771

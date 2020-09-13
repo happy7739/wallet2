@@ -1,0 +1,2 @@
+[2020-09-10T10:31:26+08:00][error] 登录异常:SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES)|568
+[2020-09-10T10:34:31+08:00][error] [8]未定义数组下标: 1[D:\phpstudy_pro\WWW\auth_check-dev-3\app\common\model\BaseModel.php:40]
